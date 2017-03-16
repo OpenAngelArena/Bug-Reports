@@ -22,7 +22,7 @@ Please remember to always record your testing sessions on your local hard drive 
 
 
 
-TL:DR Record all your stuff while playing the mod and report any bugs.
+TL:DR Record all your stuff while playing the mod and report any bugs to the issues section of this repository.
  
  
  
